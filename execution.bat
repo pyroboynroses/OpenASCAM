@@ -1,2 +1,0 @@
-OpenASCAM.py
-pause
